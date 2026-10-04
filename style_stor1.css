@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+    color: dimgrey;
+    /* color: darkgray; */
+}
+a {
+    color: saddlebrown;
+}
+
+h1, h2 {
+    text-align: center;
+}
