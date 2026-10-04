@@ -1,0 +1,24 @@
+body {
+    background-color: lightgray;
+}
+a {
+    color: saddlebrown;
+}
+span {
+    color: blue;
+}
+.p_lightgray_semibold {
+    color: #b8b8b8;
+    font-weight: semibold;
+}
+.p_italic {
+    font-style: italic;
+}
+.img_left {
+    float: left;
+    width: 30%;
+}
+.img_right {
+    float: right;
+    width: 40%;
+}
